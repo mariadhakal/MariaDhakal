@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/maria-dhakal)
 - [Email](mailto:mariadhakalnd@gmail.com)
 
+### About Me
 ## 🔭 Research Interests
 - **Large Language Models (LLMs)**
 - **Context-aware Code Summarization**
@@ -47,6 +48,9 @@ _Dec 2016 - Dec 2020_
 - **Database:** MySQL, Oracle, MongoDB
 - **Security Tools:** Wireshark, Nessus
 
+## ⚡Fun Fact 
+- ** I love hiking and exploring new place.
+<!--
 ## Experience
 ### Graduate Research Assistant
 **University of Notre Dame**  
@@ -80,11 +84,11 @@ _Dec 2019 - June 2020_
 - Developed a user registration system with CRUD functionality.
 - Integrated MySQL database and JavaMail API for user registration and email verification.
 
-<!--
+
 ## Publications
 - **AI-Mediated Code Comment Improvement**  
   Chia-Yi Su, Aakash Bansal, Robert Wallace, Maria Dhakal, Chris Fakhimi, Yu Huang, Toby Li, and Collin McMillan. (2024) In Preparation for Submission.
--->
+
 ## Workshops and Certifications
 - **Front End Development Workshop** (July 2017)
 - **Second Kathmandu Astrophysics School (KAS)** (June 2018)
@@ -99,7 +103,6 @@ _Dec 2019 - June 2020_
 _June 17, 2018_  
 - Solved Friedman’s equation using numerical methods and utilized NumPy for plotting results.
 
-<!--
 ## Additional Links
 - [AI-Mediated Code Comment Improvement](https://drive.google.com/file/d/1Fr5YRQzTLFPcIeypaqyaK5a-d7OWJ55F/view?usp=sharing)
 - [Other Relevant Documents](https://drive.google.com/file/d/1cWQiXmwRi6UqA7wPaS8x8b4U_IG0M8TT/view?usp=sharing)
