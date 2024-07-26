@@ -1,6 +1,7 @@
+<!--
 ## Hi there, I'm Maria Dhakal! 👋
 
-<!--
+
 **mariadhakal/MariaDhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,17 +16,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Maria Dhakal - PhD Student
-
+ 
 ![Profile Image](https://your-profile-image-url)
 
-## Research Interests
+## Connect with Me 👋
+- [LinkedIn](https://www.linkedin.com/in/maria-dhakal)
+- [Email](mailto:mariadhakalnd@gmail.com)
+
+## 🔭 Research Interests
 - **Large Language Models (LLMs)**
 - **Context-aware Code Summarization**
-- **Natural Language Processiong**
+- **Natural Language Processing**
 - **Code Maintainability**
 - **Multilingual LLMS**
 
-## Education
+## 🌱 Education
 ### Ph.D. in Computer Science and Engineering
 **University of Notre Dame**  
 _Aug 2023 - May 2028_  
@@ -75,10 +80,11 @@ _Dec 2019 - June 2020_
 - Developed a user registration system with CRUD functionality.
 - Integrated MySQL database and JavaMail API for user registration and email verification.
 
+<!--
 ## Publications
 - **AI-Mediated Code Comment Improvement**  
   Chia-Yi Su, Aakash Bansal, Robert Wallace, Maria Dhakal, Chris Fakhimi, Yu Huang, Toby Li, and Collin McMillan. (2024) In Preparation for Submission.
-
+-->
 ## Workshops and Certifications
 - **Front End Development Workshop** (July 2017)
 - **Second Kathmandu Astrophysics School (KAS)** (June 2018)
@@ -92,10 +98,6 @@ _Dec 2019 - June 2020_
 ### Kathmandu Astrophysics Seminar’18 Best Group Project Award
 _June 17, 2018_  
 - Solved Friedman’s equation using numerical methods and utilized NumPy for plotting results.
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/maria-dhakal)
-- [Email](mailto:mariadhakalnd@gmail.com)
 
 <!--
 ## Additional Links
