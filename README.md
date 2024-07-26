@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Maria Dhakal - PhD Student
  
-![Profile Image](https://your-profile-image-url)
+![Profile Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnp.linkedin.com%2Fin%2Fmaria-dhakal%3Ftrk%3Dpublic_profile_browsemap_mini-profile_title&psig=AOvVaw05j1wEWNMNQxiPLwQSkbFl&ust=1722097358096000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDNt6GPxYcDFQAAAAAdAAAAABAE)
 
 ## Connect with Me 👋
 - [LinkedIn](https://www.linkedin.com/in/maria-dhakal)
@@ -49,7 +49,8 @@ _Dec 2016 - Dec 2020_
 - **Security Tools:** Wireshark, Nessus
 
 ## ⚡Fun Fact 
-- ** I love hiking and exploring new place.**
+- **I love hiking and exploring new places.**
+
 <!--
 ## Experience
 ### Graduate Research Assistant
