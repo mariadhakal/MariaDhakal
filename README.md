@@ -49,7 +49,7 @@ _Dec 2016 - Dec 2020_
 - **Security Tools:** Wireshark, Nessus
 
 ## ⚡Fun Fact 
-- ** I love hiking and exploring new place.
+- ** I love hiking and exploring new place.**
 <!--
 ## Experience
 ### Graduate Research Assistant
