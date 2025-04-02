@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Maria Dhakal - PhD Student
  
-![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQHxKsEdEkorWQ/profile-displayphoto-shrink_800_800/B56ZX4LzsrHEAc-/0/1743625601100?e=1749081600&v=beta&t=V36MdSW799TLfa0W2qdINxBqwektNBC8q9eK6efFVZg)
+![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQGGo82HAEugeA/profile-displayphoto-shrink_400_400/B56ZX4zaBBGoAg-/0/1743635983794?e=1749081600&v=beta&t=9bZ1QJkhRRpZI_zdI7gpCw16e1uTqqg0dmMIa2aYttA)
 
 ## Connect with Me 👋
 - [LinkedIn](https://www.linkedin.com/in/maria-dhakal)
