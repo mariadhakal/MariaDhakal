@@ -51,6 +51,8 @@ _Dec 2016 - Dec 2020_
 ## ⚡Fun Fact 
 - **I love hiking and exploring new places.**
 
+## HTML Tag
+google-site-verification: googlefe3caa219a190cd8.html
 <!--
 ## Experience
 ### Graduate Research Assistant
