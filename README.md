@@ -1,7 +1,5 @@
 <!--
 ## Hi there, I'm Maria Dhakal! 👋
-
-
 **mariadhakal/MariaDhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 # Maria Dhakal - PhD Student
  
 ![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQGGo82HAEugeA/profile-displayphoto-shrink_400_400/B56ZX4zaBBGoAg-/0/1743635983794?e=1749081600&v=beta&t=9bZ1QJkhRRpZI_zdI7gpCw16e1uTqqg0dmMIa2aYttA)
